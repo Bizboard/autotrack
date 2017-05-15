@@ -3,7 +3,7 @@
   "version": "2.3.2",
   "description": "Automatic and enhanced Google Analytics tracking for common user interactions on the web",
   "main": "lib/index.js",
-  "registry": "github",
+  "registry": "npm",
   "bin": "./bin/autotrack",
   "scripts": {
     "build": "gulp build",
